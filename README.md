@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![2_objects](https://github.com/user-attachments/assets/bbc093ea-ecb0-4999-a855-bb96dca7ba79)" alt="Description" width="YOUR_DESIRED_WIDTH" />
+  <img src="img/2_objects.png" alt="IMG" width="YOUR_DESIRED_WIDTH" />
 </p>
 
 ⚡ ET Student | FOSS Contributor | Graphic Design Enthusiast
