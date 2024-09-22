@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="2_objects.png" alt="IMG" width="YOUR_DESIRED_WIDTH" />
+  <img src="344.png" alt="IMG" width="YOUR_DESIRED_WIDTH" />
 </p>
 
 ⚡ ET Student | FOSS Contributor | Graphic Design Enthusiast
