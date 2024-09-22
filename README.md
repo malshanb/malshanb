@@ -1,4 +1,6 @@
-<span style="color:blue">Hi there, I'm Malshan!</span>
+Hi there, I'm Malshan!
+
+<hr style="border:2px solid gray; border-radius:2px;"> <!-- Thicker line with rounded corners -->
 
 ⚡ ET Student | FOSS Contributor | Graphic Design Enthusiast
 
