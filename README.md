@@ -1,4 +1,6 @@
-# Hi there, I'm Malshan!
+Hi there, I'm Malshan!
+
+<hr style="border:2px solid gray"> <!-- Thicker line -->
 
 ⚡ ET Student | FOSS Contributor | Graphic Design Enthusiast
 
