@@ -1,6 +1,6 @@
-Hi there, I'm Malshan!
+# Hi there, I'm Malshan!
 
-<hr style="border:2px solid gray; border-radius:5px;"> <!-- Thicker line -->
+<hr style="border:2px solid gray; border-radius:5px;">
 
 ⚡ ET Student | FOSS Contributor | Graphic Design Enthusiast
 
