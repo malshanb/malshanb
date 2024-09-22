@@ -1,1 +1,12 @@
-👋 Hi there! I'm an Engineering Technology student from Sri Lanka with a passion for contributing to FOSS projects. My main focus is on providing graphical and design support, though I also enjoy working on the occasional code task. I'm always excited to collaborate and help projects improve their visual and user experience!
+⚡ ET Student | FOSS Contributor | Graphic Design Enthusiast
+
+Currently pursuing my studies in Electronics & Telecommunications Engineering in Sri Lanka, I'm passionate about contributing to open-source projects, primarily providing graphical design support. While my coding involvement is less frequent, I focus on improving project documentation, ensuring that README files are clean, reliable, and user-friendly.
+
+📌 Skills & Interests:
+
+    FOSS Contributions
+    Graphic Design for Open Source
+    Improving Project Documentation
+    README Optimization
+
+Let's make the open-source world better! 💻
