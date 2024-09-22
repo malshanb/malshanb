@@ -10,10 +10,11 @@ Currently pursuing my studies in Electronics & Telecommunications Engineering in
 
 💻 Connect with Me:
 
-    Portfolio Website: [malshan.netlify.app](https://malshan.netlify.app/) [UNDER DEV]
+    Portfolio Website: malshan.netlify.app [UNDER DEV]
 
 📫 Get in Touch:
 
     Feel free to reach out if you'd like to collaborate or just chat about FOSS, design, or anything tech-related!
 
 Let's make the open-source world better! 💻
+[malshan.netlify.app](https://malshan.netlify.app/)
