@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="![2_objects](https://github.com/user-attachments/assets/bbc093ea-ecb0-4999-a855-bb96dca7ba79)" alt="Description" width="YOUR_DESIRED_WIDTH" />
+</p>
+
 ⚡ ET Student | FOSS Contributor | Graphic Design Enthusiast
 
 Currently pursuing my studies in Electronics & Telecommunications Engineering in Sri Lanka, I'm passionate about contributing to open-source projects, primarily providing graphical design support. While my coding involvement is less frequent, I focus on improving project documentation, ensuring that README files are clean, reliable, and user-friendly.
