@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="344.png" alt="IMG" width="YOUR_DESIRED_WIDTH" />
+  <img src="github-greet.png" alt="Greeting" width="auto"/>
 </p>
 
 ⚡ ET Student | FOSS Contributor | Graphic Design Enthusiast
