@@ -18,6 +18,6 @@ Currently pursuing my studies in Electronics & Telecommunications Engineering in
 
 📫 Get in Touch:
 
-    Feel free to reach out if you'd like to collaborate or just chat about FOSS, design, or anything tech-related!
+    malshanbandara82 at gmail.com
 
 Let's make the open-source world better! 💻
