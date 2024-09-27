@@ -20,5 +20,4 @@ Currently pursuing my studies in Electronics & Telecommunications Engineering in
 
     malshanbandara82 at gmail.com
 
-Malshan Bandara,
-UTC+05:30
+Malshan Bandara, UTC+05:30
