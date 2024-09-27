@@ -2,7 +2,7 @@
   <img src="github-greet.png" alt="Greeting" width="auto"/>
 </p>
 
-⚡ ET Student | FOSS Contributor | Graphic Design Enthusiast
+⚡ ET Student | L.O Design Team Member | KDE Developer | Graphic Designer
 
 Currently pursuing my studies in Electronics & Telecommunications Engineering in Sri Lanka, I'm passionate about contributing to open-source projects, primarily providing graphical design support. While my coding involvement is less frequent, I focus on improving project documentation, ensuring that README files are clean, reliable, and user-friendly.
 
@@ -14,7 +14,7 @@ Currently pursuing my studies in Electronics & Telecommunications Engineering in
 
 💻 Connect with Me:
 
-    Portfolio Website: malshan.netlify.app [UNDER DEV]
+    Portfolio Website: malshan.netlify.app [UNDER DEVELOPMENT]
 
 📫 Get in Touch:
 
