@@ -8,16 +8,16 @@ Currently pursuing my studies in Electronics & Telecommunications Engineering in
 
 🔧 What I Do:
 
-    FOSS Support: Primarily contributing to the visual and graphical aspects of open-source projects.
-    README Improvements: Making documentation clear, organized, and accessible for all users.
-    Graphic Design: Leveraging my design skills to enhance user experiences in the FOSS community.
+    * FOSS Support: Primarily contributing to the visual and graphical aspects of open-source projects.
+    * README Improvements: Making documentation clear, organized, and accessible for all users.
+    * Graphic Design: Leveraging my design skills to enhance user experiences in the FOSS community.
 
 💻 Connect with Me:
 
-    Portfolio Website: malshan.netlify.app [UNDER DEVELOPMENT]
+    * Portfolio Website: malshan.netlify.app [UNDER DEVELOPMENT]
 
 📫 Get in Touch:
 
-    malshanbandara82 at gmail.com
+    * malshanbandara82 at gmail.com
 
-Malshan Bandara, UTC+05:30
+> Malshan Bandara, UTC+05:30
