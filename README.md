@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-greet.png" alt="Greeting" width="auto"/>
+  <img src="github.png" alt="Greeting" width="auto"/>
 </p>
 
 ⚡ ET Student | L.O Design Team Member | KDE Developer | Graphic Designer
