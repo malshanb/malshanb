@@ -8,4 +8,4 @@ Currently pursuing my studies in Electronics & Telecommunications Engineering in
 
 ◽ Get in Touch:
 
-    * malshanbandara82 at gmail.com
+    * malshanbandara82 [at] gmail.com
