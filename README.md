@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="malshan.png" alt="Greeting" width="auto"/>
+  <img src="github-greet.png" alt="Greeting" width="auto"/>
 </p>
 
 ⚡ ET Student | - | Rust, Python & Go Developer | Graphic Designer |
